@@ -1,0 +1,18 @@
+{
+  "name": "dcstudios",
+  "homepage": "https://github.com/IagoCastroNp/dcstudios",
+  "authors": [
+    "Iago Castro <iago.castronp@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
