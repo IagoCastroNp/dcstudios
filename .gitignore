@@ -1,0 +1,7 @@
+node_modules
+criando-um-site-responsivo-do-comeco-ao-fim
+._.DS_Store
+.sass-cache
+.sass-cache/*
+.__*
+
